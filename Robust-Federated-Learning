@@ -1,0 +1,20 @@
+[1] Median, TrimmedMean
+Yin D, Chen Y, Kannan R, et al. Byzantine-robust distributed learning: Towards optimal statistical rates[C]//International conference on machine learning. Pmlr, 2018.
+
+[2] GeoMed, RFA
+Pillutla K, Kakade S M, Harchaoui Z. Robust aggregation for federated learning[J]. IEEE Transactions on Signal Processing, 2022.
+
+[3] DnC
+Shejwalkar V, Houmansadr A. Manipulating the byzantine: Optimizing model poisoning attacks and defenses for federated learning[C]//NDSS. 2021.
+
+[4] ClippedClustering
+Li S, Ngai E C H, Voigt T. An experimental study of byzantine-robust aggregation schemes in federated learning[J]. IEEE Transactions on Big Data, 2023. (CCF C)
+
+[5] SignGuard
+Xu J, Huang S L, Song L, et al. Byzantine-robust federated learning through collaborative malicious gradient filtering[C]//2022 IEEE 42nd International Conference on Distributed Computing Systems (ICDCS). IEEE, 2022. (CCF B)
+
+[6] 
+Xiang Z, Wang T, Lin W, et al. Practical differentially private and byzantine-resilient federated learning[J]. Proceedings of the ACM on Management of Data, 2023.
+
+[7]
+Zhu B, Wang L, Pang Q, et al. Byzantine-robust federated learning with optimal statistical rates[C]// Proceedings of The 26th International Conference on Artificial Intelligence and Statistics. PMLR, 2023.
