@@ -18,3 +18,6 @@ Xiang Z, Wang T, Lin W, et al. Practical differentially private and byzantine-re
 
 [7]
 Zhu B, Wang L, Pang Q, et al. Byzantine-robust federated learning with optimal statistical rates[C]// Proceedings of The 26th International Conference on Artificial Intelligence and Statistics. PMLR, 2023.
+
+[8] FLGuard
+Lee Y, Cho Y, Han W, et al. FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models[C]//European Symposium on Research in Computer Security. Cham: Springer Nature Switzerland, 2023: 65-84. (CCF B)
