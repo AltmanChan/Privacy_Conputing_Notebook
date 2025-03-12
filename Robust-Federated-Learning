@@ -21,3 +21,9 @@ Zhu B, Wang L, Pang Q, et al. Byzantine-robust federated learning with optimal s
 
 [8] FLGuard
 Lee Y, Cho Y, Han W, et al. FLGuard: Byzantine-Robust Federated Learning via Ensemble of Contrastive Models[C]//European Symposium on Research in Computer Security. Cham: Springer Nature Switzerland, 2023: 65-84. (CCF B)
+
+[8] BPFL
+Efficient Byzantine-Robust and Provably Privacy-Preserving Federated Learning
+
+[8] LASA
+Xu J, Zhang Z, Hu R. Achieving Byzantine-Resilient Federated Learning via Layer-Adaptive Sparsified Model Aggregation[C]// Proceedings of the Winter Conference on Applications of Computer Vision (WACV), 2025.
