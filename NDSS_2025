@@ -1,4 +1,7 @@
 
+# Federated Learning
+
+Kaiyuan Zhang, Siyuan Cheng, Guangyu Shen, Bruno Ribeiro, Shengwei An, Pin-Yu Chen, Xiangyu Zhang, Ninghui Li. CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling
 
 Duanyi Yao, Songze Li, Xueluan Gong, Sizai Hou and Gaoning Pan. URVFL: Undetectable Data Reconstruction Attack on Vertical Federated Learning.
 
@@ -10,19 +13,24 @@ Aydin Abadi, Vishnu Asutosh Dasu, Sumanta Sarkar. Privacy-Preserving Data Dedupl
 
 Minghong Fang, Seyedsina Nabavirazavi, Zhuqing Liu, Wei Sun, Sundaraja Sitharama Iyengar, Haibo Yang. Do We Really Need to Design New Byzantine-robust Aggregation Rules?
 
-Kaiyuan Zhang, Siyuan Cheng, Guangyu Shen, Bruno Ribeiro, Shengwei An, Pin-Yu Chen, Xiangyu Zhang, Ninghui Li. CENSOR: Defense Against Gradient Inversion via Orthogonal Subspace Bayesian Sampling.
+Cheng Zhang, Yang Xu, Jianghao Tan, Jiajie An, Wenqiang Jin. MingledPie: A Cluster Mingling Approach for Mitigating Preference Profiling in CFL.
 
+
+
+# Intrusion Detection
+
+Lingzhi Wang, Xiangmin Shen, Weijian Li, Zhenyuan Li, R. Sekar, Han Liu, Yan Chen. Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection.
+
+
+
+# Others
 
 Jiska Classen, Alexander Heinrich, Fabian Portner, Felix Rohrbach, Matthias Hollick. Starshields for iOS: Navigating the Security Cosmos in Satellite Communication.
 
-
 Sian Kim, Seyed Mohammad Mehdi Mirnajafizadeh, Bara Kim, Rhongho Jang, DaeHun Nyang. SketchFeature: High-Quality Per-Flow Feature Extractor Towards Security-Aware Data Plane.
-
 
 Runze Zhang, Mingxuan Yao, Haichuan Xu, Omar Alrawi, Jeman Park, Brendan Saltaformaggio. Hitchhiking Vaccine: Enhancing Botnet Remediation With Remote Code Deployment Reuse.
 
-
 Xuewei Feng, Yuxiang Yang, Qi Li, Xingxiang Zhan, Kun Sun, Ziqiang Wang, Ao Wang, Ganqiu Du, Ke Xu. ReDAN: An Empirical Study on Remote DoS Attacks against NAT Networks.
 
-
-Lingzhi Wang, Xiangmin Shen, Weijian Li, Zhenyuan Li, R. Sekar, Han Liu, Yan Chen. Incorporating Gradients to Rules: Towards Lightweight, Adaptive Provenance-based Intrusion Detection.
+Yangtao Deng, Qian Wu, Zeqi Lai, Chenwei Gu, Hewu Li, Yuanjie Li, Jun Liu. Time-varying Bottleneck Links in LEO Satellite Networks: Identification, Exploits, and Countermeasures.
